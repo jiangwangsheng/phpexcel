@@ -1,0 +1,15 @@
+{
+    "name": "jwsexcel/phpexcel",
+    "description": "@@php@@@@@@@bug",
+    "type": "library",
+    "require": {
+        "php": ">7.2"
+    },
+    "authors": [
+        {
+            "name": "jiangwangsheng",
+            "email": "jxf1492109871@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+}
